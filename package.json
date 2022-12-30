@@ -1,0 +1,21 @@
+{
+  "name": "jhou-dark",
+  "displayName": "jhou-dark",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Jhou Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Jhou Dark-color-theme.json"
+      }
+    ]
+  }
+}
