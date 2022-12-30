@@ -26,5 +26,7 @@
     "type": "git",
     "url": "https://github.com/JhonatasPXS/jhou-dark-theme"
   },
-  "homepage": "https://github.com/JhonatasPXS/jhou-dark-theme/blob/master/README.md"
+  "homepage": "https://github.com/JhonatasPXS/jhou-dark-theme/blob/master/README.md",
+
+  "publisher": "Jhonatas"
 }
