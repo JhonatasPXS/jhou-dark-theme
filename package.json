@@ -2,7 +2,7 @@
   "name": "jhou-dark",
   "displayName": "jhou-dark",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.74.0"
   },
@@ -27,6 +27,5 @@
     "url": "https://github.com/JhonatasPXS/jhou-dark-theme"
   },
   "homepage": "https://github.com/JhonatasPXS/jhou-dark-theme/blob/master/README.md",
-
   "publisher": "Jhonatas"
 }
