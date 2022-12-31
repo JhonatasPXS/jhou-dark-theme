@@ -306,6 +306,24 @@
 			}
 		},
 		{
+			"name": "variable.other.constant.object.js",
+			"scope": [
+				"variable.other.constant.object.js"
+			],
+			"settings": {
+				"foreground": "#FF5400"
+			}
+		},
+		{
+			"name": "keyword.control.flow.js",
+			"scope": [
+				"keyword.control.flow.js"
+			],
+			"settings": {
+				"foreground": "#FF006A"
+			}
+		},
+		{
 			"name": "Language variable",
 			"scope": [
 				"variable.language"
